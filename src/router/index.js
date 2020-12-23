@@ -7,7 +7,11 @@ Vue.use(Router);
 export default new Router({
   routes: [
     {
-      path: '/',
+      path: '/', // 默认页面重定向到主页
+      redirect: '/HelloWorld' // 重定向
+    },
+    {
+      path: '/HelloWorld',
       name: 'HelloWorld',
       component: HelloWorld
     }
