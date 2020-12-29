@@ -1,5 +1,6 @@
 <template>
   <div>
+    <positiondemo></positiondemo>
     <span>home</span>
     <div>
       <ul>
@@ -14,6 +15,7 @@
 <script>
 import bill from '../../components/bill/bill';
 import messageboard from '../../components/messageboard/messageboard';
+import positiondemo from '../../components/picture-demo/positiondemo';
 
 export default {
   data () {
@@ -30,7 +32,8 @@ export default {
   },
   components: {
     bill,
-    messageboard
+    messageboard,
+    positiondemo
   }
 };
 </script>
