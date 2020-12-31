@@ -1,7 +1,7 @@
 # carnival-components
 
-> carnival工程组件库(不全)第二次修噶
-> carnival工程组件库(不全)第一次修改
+> carnival工程组件库(不全)
+> carnival工程组件库(不全)
 > A Vue.js project
 
 ## Build Setup
