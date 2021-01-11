@@ -1,4 +1,4 @@
-# carnival-components
+# CarnivalComponents
 
 > carnival工程组件库(不全)
 > carnival工程组件库(不全)
